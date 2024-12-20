@@ -8,7 +8,7 @@ class Parametrization(vkt.Parametrization):
 # Get started with VIKTOR and ETABS
 After learning the basics of VIKTOR you are now ready to create your first ETABS app🚀
 
-Follow the step-by-step instructions in the [documentation](https://docs.viktor.ai/docs/tutorials/process-etabs-data/?utm_source=etabs-getting-started).                                     
+Follow the step-by-step instructions in the [documentation](https://docs.viktor.ai/docs/tutorials/etabs-getting-started/?utm_source=etabs-getting-started).                                     
 
 """)
 
